@@ -1,0 +1,3 @@
+/Users/babayy/Desktop/projects/codeCrafters/codecrafters-git-cpp/CMakeFiles/git.dir
+/Users/babayy/Desktop/projects/codeCrafters/codecrafters-git-cpp/CMakeFiles/edit_cache.dir
+/Users/babayy/Desktop/projects/codeCrafters/codecrafters-git-cpp/CMakeFiles/rebuild_cache.dir
